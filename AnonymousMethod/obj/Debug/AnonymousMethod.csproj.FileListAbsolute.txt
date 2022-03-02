@@ -1,0 +1,8 @@
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.SuggestedBindingRedirects.cache
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+D:\.netframe work project\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
